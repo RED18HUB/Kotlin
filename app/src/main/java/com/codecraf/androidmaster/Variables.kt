@@ -4,7 +4,6 @@ var age2:Int=56
 val example:Long=546885
 fun main(){
     varibalesNumericas()
-
     add(15,10)
     showMyName("jonas")
     val mySubstract = substract(10,5)
